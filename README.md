@@ -38,12 +38,9 @@
 
 <p>
 //javaScript code
-<code>
-const BASE_URL =
-  "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies";
-</code><br>
-
-  //other changes have to made in updateFlag function
+<code>const BASE_URL = "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies";</code>
+<br>
+//other changes have to made in updateFlag function
 <code>let newSrc = `https://flagsapi.com/${countryCode}/flat/64.png`;</code>
 </p>
 

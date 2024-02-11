@@ -36,15 +36,18 @@
 
 <p>Make sure to sign up for an API key and replace the placeholder with your actual API key in the JavaScript code.</p>
 
-<code>
+<p>
 //javaScript code
+<code>
 const BASE_URL =
   "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies";
+</code><br>
 
   //other changes have to made in updateFlag function
-   let newSrc = `https://flagsapi.com/${countryCode}/flat/64.png`;
+<code>let newSrc = `https://flagsapi.com/${countryCode}/flat/64.png`;</code>
+</p>
 
-</code>
+
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or submit a pull request.</p>
